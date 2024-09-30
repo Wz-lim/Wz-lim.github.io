@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Wz-lim.github.io/al-folio/sitemap.xml
+Sitemap: https://Wz-lim.github.io/sitemap.xml
